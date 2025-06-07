@@ -8,4 +8,5 @@ Also, this file includes on the hash decryption process by using bruteforce meth
 - MD5
 - SHA256
 - SHA512
+
 Currently not supported for hash with addition of salt.
